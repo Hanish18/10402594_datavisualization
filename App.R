@@ -10,7 +10,7 @@ library(plotly)
 library("leaflet")
 library(shinydashboard)
 library(shinycustomloader)
-#setting dashboard theme
+#setting for dashboard theme
 theme_set(theme_classic())
 
 #######################################################################################
